@@ -15,8 +15,6 @@ Run the three functions in order for each sensor node, using its state matrix `A
 
 **Requirements:** MATLAB R2022a or later. Control System Toolbox is required for Algorithm 3 when free poles must be assigned.
 
-**File names:** The primary MATLAB function name in each `.m` file must match its file name (`duio_algorithm_1`, `duio_algorithm_2`, or `duio_algorithm_3`).
-
 ## Algorithm 1 — Subspace bases and projections
 
 ### Syntax
