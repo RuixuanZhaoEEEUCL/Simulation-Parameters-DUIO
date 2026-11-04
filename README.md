@@ -1,6 +1,6 @@
 # Supplementary Documents for DUIO
 
-Supplementary materials for the journal paper [**Distributed Unknown Input Observer Design: A Geometric Approach**](https://arxiv.org/abs/2603.18335).
+Supplementary materials for the journal paper [**Distributed Unknown Input Observer Design: A Geometric Approach**](https://doi.org/10.1109/TAC.2026.3749524).
 
 ## Files
 
